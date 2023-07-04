@@ -3,7 +3,7 @@ package api.cvt.app.service.impl;
 import java.util.List;
 import java.util.Optional;
 
-import org.hibernate.annotations.Check;
+
 import org.springframework.stereotype.Service;
 
 import api.cvt.app.exception.ResourceNotFoundException;
